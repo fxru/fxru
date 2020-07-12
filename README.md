@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there!
+
+- 🧔🏻I’m a researcher working at the Data Center for the Humanities at the University of Cologne. My background is in language documentation, field linguistics and language archiving.
+- 🧱I’m working on data and metadata quality as well as archiving, preserving, and disseminating audio-visual and other data
+- 🧰I’m also interested in lexical resources and digital lexicography
+
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-4167-0601" href="https://orcid.org/0000-0003-4167-0601" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"> orcid:0000-0003-4167-0601</a></div>
 
 <!--
 **fxru/fxru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
